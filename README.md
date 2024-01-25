@@ -18,6 +18,11 @@ The training model layers consist of:
 ![Model Architecture](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/b9aab83c-9819-4111-8e1c-0a09bdbfe196)
 
 ## Model Performance
+![Model Performance](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/86862381-31c9-42e9-a8dc-925bee8f7d5c)
+
+### F1 score
+![f1_score](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/3095768a-a173-4f69-bcea-0f4c3ff7d4f7)
+
 ### Tensorboard - epoch loss
 ![Tensorboard - epoch loss](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/0cebe60f-82ca-42ae-8314-1bd9879f0915)
 
