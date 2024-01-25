@@ -21,6 +21,10 @@ The training model layers consist of
 ![Tensorboard - epoch accuracy](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/e12ee973-48a1-4682-bbc4-a1eead924e09)
 
 ## Sample Data
-![Sample 3](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/80998c48-e92a-47c2-bf1e-ec2f189631c1)
-![Sample 2](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/1a8440e7-c001-41bc-9b61-66383d31a404)
+### Sample 1
 ![Sample 1](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/b7d8d3a1-8c12-469b-8142-d4d7f0ab5308)
+### Sample 2
+![Sample 2](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/1a8440e7-c001-41bc-9b61-66383d31a404)
+### Sample 3
+![Sample 3](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/80998c48-e92a-47c2-bf1e-ec2f189631c1)
+
