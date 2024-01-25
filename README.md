@@ -1,6 +1,6 @@
 # CategorizeProduct
 ## Introduction
-Documenting products and their category is essential in
+Documenting products and their categories is essential in organizing products to improve user experience when searching for products and for the ecommerce system to recommend customers products that they may be interested in. Organizing products and their categories also provides data customer preferances of products where retailers can leverage this information for data analysis and strategic decision-making.
 
 The aim of this project is to train a Natural Language Processing system to identify categories for given products names and descriptions. The dataset used for this training is from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification).
 
