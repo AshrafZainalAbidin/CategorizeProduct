@@ -5,12 +5,11 @@ Documenting products and their category is essential in
 The aim of this project is to train a Natural Language Processing system to identify categories for given products names and descriptions. The dataset used for this training is from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification).
 
 ## Model Architecture
-***
 The training model layers consist of:
-*Embedding.
-*Long short-term memory (LSTM).
-*Rectified Linear Unit (ReLU).
-*Softmax.
+-Embedding.
+-Long short-term memory (LSTM).
+-Rectified Linear Unit (ReLU).
+-Softmax.
 
 ![Model Architecture](https://github.com/AshrafZainalAbidin/CategorizeProduct/assets/154945805/b9aab83c-9819-4111-8e1c-0a09bdbfe196)
 
